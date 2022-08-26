@@ -1,0 +1,1 @@
+So for this project I did not implement a data structure. I decided to directly read, write an delete directly from the file itself. Every method opens a file pointer, does the necessary operation as desired and finally close the file. This is done for all commands including get,delete,put,list all and clear.
