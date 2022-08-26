@@ -35,7 +35,7 @@ all: The format is a. This command prints out all key-value pairs in the databas
 Details
 Here are some details that may help you complete the project.
 
-##Persistence
+## Persistence
 This means kv will have to write out keys and values to a file (or multiple files), and then the next time it's run, be able to read them back in in order to fulfill requests.
 
 For example, let's say you run the following:
